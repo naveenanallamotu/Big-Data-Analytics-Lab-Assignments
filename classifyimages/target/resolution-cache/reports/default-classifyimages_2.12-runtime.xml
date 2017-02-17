@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="classifyimages_2.12"
+		revision="1.0"
+		conf="runtime"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20170216213528"/>
+	<dependencies>
+		<module organisation="org.bytedeco" name="javacv">
+			<revision name="0.11" status="release" pubdate="20150404084331" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://bytedeco.org/javacv/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="2">
+				<license name="GPLv2 with Classpath exception" url="http://www.gnu.org/software/classpath/license.html"/>
+				<metadata-artifact status="no" details="" size="5965" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco\javacv\ivy-0.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/bytedeco/javacv/0.11/javacv-0.11.pom"/>
+				<caller organisation="default" name="classifyimages_2.12" conf="compile, runtime" rev="0.11" rev-constraint-default="0.11" rev-constraint-dynamic="0.11" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="javacv" type="jar" ext="jar" status="no" details="" size="353526" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco\javacv\jars\javacv-0.11.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacv/0.11/javacv-0.11.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.bytedeco.javacpp-presets" name="flandmark">
+			<revision name="1.07-0.11" status="release" pubdate="20150404080442" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="10">
+				<metadata-artifact status="no" details="" size="3631" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\flandmark\ivy-1.07-0.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/flandmark/1.07-0.11/flandmark-1.07-0.11.pom"/>
+				<caller organisation="org.bytedeco" name="javacv" conf="default, compile, runtime, master" rev="1.07-0.11" rev-constraint-default="1.07-0.11" rev-constraint-dynamic="1.07-0.11" callerrev="0.11"/>
+				<artifacts>
+					<artifact name="flandmark" type="jar" ext="jar" status="no" details="" size="11500" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\flandmark\jars\flandmark-1.07-0.11.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/flandmark/1.07-0.11/flandmark-1.07-0.11.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.bytedeco.javacpp-presets" name="artoolkitplus">
+			<revision name="2.3.1-0.11" status="release" pubdate="20150404080928" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="9">
+				<metadata-artifact status="no" details="" size="3480" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\artoolkitplus\ivy-2.3.1-0.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-0.11/artoolkitplus-2.3.1-0.11.pom"/>
+				<caller organisation="org.bytedeco" name="javacv" conf="default, compile, runtime, master" rev="2.3.1-0.11" rev-constraint-default="2.3.1-0.11" rev-constraint-dynamic="2.3.1-0.11" callerrev="0.11"/>
+				<artifacts>
+					<artifact name="artoolkitplus" type="jar" ext="jar" status="no" details="" size="23692" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\artoolkitplus\jars\artoolkitplus-2.3.1-0.11.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-0.11/artoolkitplus-2.3.1-0.11.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.bytedeco.javacpp-presets" name="videoinput">
+			<revision name="0.200-0.11" status="release" pubdate="20150404080914" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="8">
+				<metadata-artifact status="no" details="" size="3471" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\videoinput\ivy-0.200-0.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/videoinput/0.200-0.11/videoinput-0.200-0.11.pom"/>
+				<caller organisation="org.bytedeco" name="javacv" conf="default, compile, runtime, master" rev="0.200-0.11" rev-constraint-default="0.200-0.11" rev-constraint-dynamic="0.200-0.11" callerrev="0.11"/>
+				<artifacts>
+					<artifact name="videoinput" type="jar" ext="jar" status="no" details="" size="15107" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\videoinput\jars\videoinput-0.200-0.11.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/videoinput/0.200-0.11/videoinput-0.200-0.11.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.bytedeco.javacpp-presets" name="libfreenect">
+			<revision name="0.5.2-0.11" status="release" pubdate="20150404080600" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="7">
+				<metadata-artifact status="no" details="" size="3476" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\libfreenect\ivy-0.5.2-0.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/libfreenect/0.5.2-0.11/libfreenect-0.5.2-0.11.pom"/>
+				<caller organisation="org.bytedeco" name="javacv" conf="default, compile, runtime, master" rev="0.5.2-0.11" rev-constraint-default="0.5.2-0.11" rev-constraint-dynamic="0.5.2-0.11" callerrev="0.11"/>
+				<artifacts>
+					<artifact name="libfreenect" type="jar" ext="jar" status="no" details="" size="21434" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\libfreenect\jars\libfreenect-0.5.2-0.11.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/libfreenect/0.5.2-0.11/libfreenect-0.5.2-0.11.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.bytedeco.javacpp-presets" name="libdc1394">
+			<revision name="2.2.3-0.11" status="release" pubdate="20150404080410" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="6">
+				<metadata-artifact status="no" details="" size="3472" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\libdc1394\ivy-2.2.3-0.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/libdc1394/2.2.3-0.11/libdc1394-2.2.3-0.11.pom"/>
+				<caller organisation="org.bytedeco" name="javacv" conf="default, compile, runtime, master" rev="2.2.3-0.11" rev-constraint-default="2.2.3-0.11" rev-constraint-dynamic="2.2.3-0.11" callerrev="0.11"/>
+				<artifacts>
+					<artifact name="libdc1394" type="jar" ext="jar" status="no" details="" size="29888" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\libdc1394\jars\libdc1394-2.2.3-0.11.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/libdc1394/2.2.3-0.11/libdc1394-2.2.3-0.11.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.bytedeco.javacpp-presets" name="flycapture">
+			<revision name="2.7.3.19-0.11" status="release" pubdate="20150404080911" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="5">
+				<metadata-artifact status="no" details="" size="3476" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\flycapture\ivy-2.7.3.19-0.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/flycapture/2.7.3.19-0.11/flycapture-2.7.3.19-0.11.pom"/>
+				<caller organisation="org.bytedeco" name="javacv" conf="default, compile, runtime, master" rev="2.7.3.19-0.11" rev-constraint-default="2.7.3.19-0.11" rev-constraint-dynamic="2.7.3.19-0.11" callerrev="0.11"/>
+				<artifacts>
+					<artifact name="flycapture" type="jar" ext="jar" status="no" details="" size="139337" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\flycapture\jars\flycapture-2.7.3.19-0.11.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/flycapture/2.7.3.19-0.11/flycapture-2.7.3.19-0.11.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.bytedeco.javacpp-presets" name="ffmpeg">
+			<revision name="2.6.1-0.11" status="release" pubdate="20150404080430" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="4">
+				<metadata-artifact status="no" details="" size="3466" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\ffmpeg\ivy-2.6.1-0.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/ffmpeg/2.6.1-0.11/ffmpeg-2.6.1-0.11.pom"/>
+				<caller organisation="org.bytedeco" name="javacv" conf="default, compile, runtime, master" rev="2.6.1-0.11" rev-constraint-default="2.6.1-0.11" rev-constraint-dynamic="2.6.1-0.11" callerrev="0.11"/>
+				<artifacts>
+					<artifact name="ffmpeg" type="jar" ext="jar" status="no" details="" size="224324" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\ffmpeg\jars\ffmpeg-2.6.1-0.11.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/ffmpeg/2.6.1-0.11/ffmpeg-2.6.1-0.11.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.bytedeco.javacpp-presets" name="opencv">
+			<revision name="2.4.11-0.11" status="release" pubdate="20150404080850" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="3">
+				<metadata-artifact status="no" details="" size="3467" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\opencv\ivy-2.4.11-0.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/opencv/2.4.11-0.11/opencv-2.4.11-0.11.pom"/>
+				<caller organisation="org.bytedeco" name="javacv" conf="default, compile, runtime, master" rev="2.4.11-0.11" rev-constraint-default="2.4.11-0.11" rev-constraint-dynamic="2.4.11-0.11" callerrev="0.11"/>
+				<caller organisation="default" name="classifyimages_2.12" conf="compile, runtime" rev="2.4.11-0.11" rev-constraint-default="2.4.11-0.11" rev-constraint-dynamic="2.4.11-0.11" callerrev="1.0"/>
+				<caller organisation="org.bytedeco.javacpp-presets" name="flandmark" conf="compile, runtime" rev="2.4.11-0.11" rev-constraint-default="2.4.11-0.11" rev-constraint-dynamic="2.4.11-0.11" callerrev="1.07-0.11"/>
+				<artifacts>
+					<artifact name="opencv" type="jar" ext="jar" extra-classifier="macosx-x86_64" status="no" details="" size="7672555" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\opencv\jars\opencv-2.4.11-0.11-macosx-x86_64.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/opencv/2.4.11-0.11/opencv-2.4.11-0.11-macosx-x86_64.jar"/>
+					</artifact>
+					<artifact name="opencv" type="jar" ext="jar" extra-classifier="windows-x86" status="no" details="" size="12557145" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\opencv\jars\opencv-2.4.11-0.11-windows-x86.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/opencv/2.4.11-0.11/opencv-2.4.11-0.11-windows-x86.jar"/>
+					</artifact>
+					<artifact name="opencv" type="jar" ext="jar" extra-classifier="linux-x86_64" status="no" details="" size="8584375" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\opencv\jars\opencv-2.4.11-0.11-linux-x86_64.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/opencv/2.4.11-0.11/opencv-2.4.11-0.11-linux-x86_64.jar"/>
+					</artifact>
+					<artifact name="opencv" type="jar" ext="jar" status="no" details="" size="805116" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\opencv\jars\opencv-2.4.11-0.11.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/opencv/2.4.11-0.11/opencv-2.4.11-0.11.jar"/>
+					</artifact>
+					<artifact name="opencv" type="jar" ext="jar" extra-classifier="linux-x86" status="no" details="" size="8537902" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\opencv\jars\opencv-2.4.11-0.11-linux-x86.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/opencv/2.4.11-0.11/opencv-2.4.11-0.11-linux-x86.jar"/>
+					</artifact>
+					<artifact name="opencv" type="jar" ext="jar" extra-classifier="windows-x86_64" status="no" details="" size="14230212" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco.javacpp-presets\opencv\jars\opencv-2.4.11-0.11-windows-x86_64.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacpp-presets/opencv/2.4.11-0.11/opencv-2.4.11-0.11-windows-x86_64.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.bytedeco" name="javacpp">
+			<revision name="0.11" status="release" pubdate="20150404031451" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://bytedeco.org/javacpp/" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="1">
+				<license name="GPLv2 with Classpath exception" url="http://www.gnu.org/software/classpath/license.html"/>
+				<metadata-artifact status="no" details="" size="3344" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco\javacpp\ivy-0.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/bytedeco/javacpp/0.11/javacpp-0.11.pom"/>
+				<caller organisation="org.bytedeco" name="javacv" conf="default, compile, runtime, master" rev="0.11" rev-constraint-default="0.11" rev-constraint-dynamic="0.11" callerrev="0.11"/>
+				<caller organisation="default" name="classifyimages_2.12" conf="compile, runtime" rev="0.11" rev-constraint-default="0.11" rev-constraint-dynamic="0.11" callerrev="1.0"/>
+				<caller organisation="org.bytedeco.javacpp-presets" name="flycapture" conf="compile, runtime" rev="0.11" rev-constraint-default="0.11" rev-constraint-dynamic="0.11" callerrev="2.7.3.19-0.11"/>
+				<caller organisation="org.bytedeco.javacpp-presets" name="ffmpeg" conf="compile, runtime" rev="0.11" rev-constraint-default="0.11" rev-constraint-dynamic="0.11" callerrev="2.6.1-0.11"/>
+				<caller organisation="org.bytedeco.javacpp-presets" name="opencv" conf="compile, runtime" rev="0.11" rev-constraint-default="0.11" rev-constraint-dynamic="0.11" callerrev="2.4.11-0.11"/>
+				<caller organisation="org.bytedeco.javacpp-presets" name="libdc1394" conf="compile, runtime" rev="0.11" rev-constraint-default="0.11" rev-constraint-dynamic="0.11" callerrev="2.2.3-0.11"/>
+				<caller organisation="org.bytedeco.javacpp-presets" name="libfreenect" conf="compile, runtime" rev="0.11" rev-constraint-default="0.11" rev-constraint-dynamic="0.11" callerrev="0.5.2-0.11"/>
+				<caller organisation="org.bytedeco.javacpp-presets" name="flandmark" conf="compile, runtime" rev="0.11" rev-constraint-default="0.11" rev-constraint-dynamic="0.11" callerrev="1.07-0.11"/>
+				<caller organisation="org.bytedeco.javacpp-presets" name="videoinput" conf="compile, runtime" rev="0.11" rev-constraint-default="0.11" rev-constraint-dynamic="0.11" callerrev="0.200-0.11"/>
+				<caller organisation="org.bytedeco.javacpp-presets" name="artoolkitplus" conf="compile, runtime" rev="0.11" rev-constraint-default="0.11" rev-constraint-dynamic="0.11" callerrev="2.3.1-0.11"/>
+				<artifacts>
+					<artifact name="javacpp" type="maven-plugin" ext="jar" status="no" details="" size="237500" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.bytedeco\javacpp\maven-plugins\javacpp-0.11.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/bytedeco/javacpp/0.11/javacpp-0.11.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.12.1" status="release" pubdate="20161205050923" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.12.1/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="0">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2685" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.scala-lang\scala-library\ivy-2.12.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.1/scala-library-2.12.1.pom"/>
+				<caller organisation="default" name="classifyimages_2.12" conf="compile, runtime" rev="2.12.1" rev-constraint-default="2.12.1" rev-constraint-dynamic="2.12.1" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="5272325" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.1/scala-library-2.12.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.spark" name="spark-mllib_2.12">
+			<revision name="1.6.0" error="not found" downloaded="false" searched="false" conf="default(compile)" position="-1">
+				<caller organisation="default" name="classifyimages_2.12" conf="compile, runtime" rev="1.6.0" rev-constraint-default="1.6.0" rev-constraint-dynamic="1.6.0" callerrev="1.0"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.spark" name="spark-streaming_2.12">
+			<revision name="1.6.0" error="not found" downloaded="false" searched="false" conf="default(compile)" position="-1">
+				<caller organisation="default" name="classifyimages_2.12" conf="compile, runtime" rev="1.6.0" rev-constraint-default="1.6.0" rev-constraint-dynamic="1.6.0" callerrev="1.0"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>
