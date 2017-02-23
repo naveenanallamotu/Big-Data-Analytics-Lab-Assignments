@@ -1,0 +1,80 @@
+{
+  "userSays": [
+    {
+      "id": "939344cf-12f8-48cd-921d-366ccf9cf7ef",
+      "data": [
+        {
+          "text": "who is naveena?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e77b800f-0ca8-484e-8e42-656d00d3a162",
+      "data": [
+        {
+          "text": "who is jessika?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ba0c8da0-7767-4757-b7ef-f53c2585abdd",
+      "data": [
+        {
+          "text": "who is vikas?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1465f5d2-38b3-4690-aca3-5b173d3a1f53",
+      "data": [
+        {
+          "text": "/Naveena"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "8f7ca4cb-0be0-40b3-b721-ff8aba3239b5",
+  "name": "otherintent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "information_date",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": false,
+          "dataType": "@information",
+          "name": "information",
+          "value": "$information",
+          "prompts": [
+            "hi it is inforamation"
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "naveena is good girl",
+            "vikas is a smart boy"
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

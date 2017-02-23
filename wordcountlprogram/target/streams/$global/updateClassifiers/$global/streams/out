@@ -18,7 +18,7 @@
 [debug] == resolving dependencies for sparkwordcount#sparkwordcount$sources_2.11;1.0 [compile]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d723a9e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2403a6c2
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.8
 [debug] 	found org.scala-lang#scala-library;2.11.8 in sbt-chain
 [debug] 	[2.11.8] org.scala-lang#scala-library;2.11.8
@@ -27,7 +27,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-streaming_2.11;1.6.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-streaming_2.11;1.6.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74a0884c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51b213d0
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-streaming_2.11;1.6.1
 [debug] 	found org.apache.spark#spark-streaming_2.11;1.6.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-streaming_2.11;1.6.1 [compile->runtime]
@@ -35,7 +35,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-streaming_2.11;1.6.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-core_2.11;1.6.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-core_2.11;1.6.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@81a24ce
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4470ac4d
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-core_2.11;1.6.1
 [debug] 	found org.apache.spark#spark-core_2.11;1.6.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-core_2.11;1.6.1 [compile->runtime]
@@ -43,7 +43,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-core_2.11;1.6.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.avro#avro-mapred;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro-mapred;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@652e38c5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78b7b465
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro-mapred;1.7.7
 [debug] 	found org.apache.avro#avro-mapred;1.7.7 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.avro#avro-mapred;1.7.7 [compile->runtime]
@@ -51,7 +51,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.avro#avro-mapred;1.7.7 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.avro#avro-ipc;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro-ipc;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ab20621
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43dd12d6
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro-ipc;1.7.7
 [debug] 	found org.apache.avro#avro-ipc;1.7.7 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.avro#avro-ipc;1.7.7 [compile->runtime]
@@ -59,7 +59,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.avro#avro-ipc;1.7.7 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.avro#avro;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7daf92ab
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1cd34b85
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro;1.7.7
 [debug] 	found org.apache.avro#avro;1.7.7 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.avro#avro;1.7.7 [compile->runtime]
@@ -67,7 +67,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.avro#avro;1.7.7 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-core-asl;1.9.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3976891d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e72dda2
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-core-asl;1.9.13
 [debug] 	found org.codehaus.jackson#jackson-core-asl;1.9.13 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->runtime]
@@ -75,7 +75,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-mapper-asl;1.9.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3bf4e6bd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cb7ce3a
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-mapper-asl;1.9.13
 [debug] 	found org.codehaus.jackson#jackson-mapper-asl;1.9.13 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->runtime]
@@ -83,7 +83,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.commons#commons-compress;1.4.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-compress;1.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30893bcd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a10b5b8
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-compress;1.4.1
 [debug] 	found org.apache.commons#commons-compress;1.4.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.commons#commons-compress;1.4.1 [compile->runtime]
@@ -91,7 +91,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.commons#commons-compress;1.4.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tukaani#xz;1.0 [compile->default(compile)]
 [info] Resolving org.tukaani#xz;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79c8c5c7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@fdb53bd
 [debug] sbt-chain: module revision found in cache: org.tukaani#xz;1.0
 [debug] 	found org.tukaani#xz;1.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tukaani#xz;1.0 [compile->runtime]
@@ -99,7 +99,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tukaani#xz;1.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.twitter#chill_2.11;0.5.0 [compile->default(compile)]
 [info] Resolving com.twitter#chill_2.11;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21857c63
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d92e020
 [debug] sbt-chain: module revision found in cache: com.twitter#chill_2.11;0.5.0
 [debug] 	found com.twitter#chill_2.11;0.5.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.twitter#chill_2.11;0.5.0 [compile->runtime]
@@ -107,7 +107,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.twitter#chill_2.11;0.5.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.twitter#chill-java;0.5.0 [compile->default(compile)]
 [info] Resolving com.twitter#chill-java;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30f1e3e2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f266593
 [debug] sbt-chain: module revision found in cache: com.twitter#chill-java;0.5.0
 [debug] 	found com.twitter#chill-java;0.5.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.twitter#chill-java;0.5.0 [compile->runtime]
@@ -115,7 +115,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.twitter#chill-java;0.5.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.kryo#kryo;2.21 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ce4a4dc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21157602
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.kryo#kryo;2.21
 [debug] 	found com.esotericsoftware.kryo#kryo;2.21 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->runtime]
@@ -123,7 +123,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.reflectasm#reflectasm;1.07 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ad440fe
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bc0e301
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.reflectasm#reflectasm;1.07
 [debug] 	found com.esotericsoftware.reflectasm#reflectasm;1.07 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->runtime]
@@ -131,7 +131,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.minlog#minlog;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f289894
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@555c0e56
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.minlog#minlog;1.2
 [debug] 	found com.esotericsoftware.minlog#minlog;1.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->runtime]
@@ -139,7 +139,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.objenesis#objenesis;1.2 [compile->default(compile)]
 [info] Resolving org.objenesis#objenesis;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27570e34
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4099ab3b
 [debug] sbt-chain: module revision found in cache: org.objenesis#objenesis;1.2
 [debug] 	found org.objenesis#objenesis;1.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.objenesis#objenesis;1.2 [compile->runtime]
@@ -147,7 +147,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.objenesis#objenesis;1.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->default(compile)]
 [info] Resolving org.apache.xbean#xbean-asm5-shaded;4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3dc29361
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56dfa3f7
 [debug] sbt-chain: module revision found in cache: org.apache.xbean#xbean-asm5-shaded;4.4
 [debug] 	found org.apache.xbean#xbean-asm5-shaded;4.4 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->runtime]
@@ -155,7 +155,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@795acdef
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b53ed23
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->runtime]
@@ -163,7 +163,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-annotations;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b07c387
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e0e4e55
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-annotations;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-annotations;2.2.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->runtime]
@@ -171,7 +171,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-cli#commons-cli;1.2 [compile->default(compile)]
 [info] Resolving commons-cli#commons-cli;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72699596
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ec1500f
 [debug] sbt-chain: module revision found in cache: commons-cli#commons-cli;1.2
 [debug] 	found commons-cli#commons-cli;1.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-cli#commons-cli;1.2 [compile->runtime]
@@ -179,7 +179,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-cli#commons-cli;1.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.commons#commons-math;2.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math;2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6fa34ef5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5da997b6
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math;2.1
 [debug] 	found org.apache.commons#commons-math;2.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.commons#commons-math;2.1 [compile->runtime]
@@ -187,7 +187,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.commons#commons-math;2.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-httpclient#commons-httpclient;3.1 [compile->default(compile)]
 [info] Resolving commons-httpclient#commons-httpclient;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7397ef24
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4abe324e
 [debug] sbt-chain: module revision found in cache: commons-httpclient#commons-httpclient;3.1
 [debug] 	found commons-httpclient#commons-httpclient;3.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-httpclient#commons-httpclient;3.1 [compile->runtime]
@@ -195,7 +195,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-httpclient#commons-httpclient;3.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->default(compile)]
 [info] Resolving log4j#log4j;1.2.17 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1bf79297
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5190b306
 [debug] sbt-chain: module revision found in cache: log4j#log4j;1.2.17
 [debug] 	found log4j#log4j;1.2.17 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->runtime]
@@ -203,7 +203,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-lang#commons-lang;2.5 [compile->default(compile)]
 [info] Resolving commons-lang#commons-lang;2.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@323bf977
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a29c905
 [debug] sbt-chain: module revision found in cache: commons-lang#commons-lang;2.5
 [debug] 	found commons-lang#commons-lang;2.5 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-lang#commons-lang;2.5 [compile->runtime]
@@ -211,7 +211,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-lang#commons-lang;2.5 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-configuration#commons-configuration;1.6 [compile->default(compile)]
 [info] Resolving commons-configuration#commons-configuration;1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9075471
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3fe3eb5b
 [debug] sbt-chain: module revision found in cache: commons-configuration#commons-configuration;1.6
 [debug] 	found commons-configuration#commons-configuration;1.6 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-configuration#commons-configuration;1.6 [compile->runtime]
@@ -219,7 +219,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-configuration#commons-configuration;1.6 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-collections#commons-collections;3.2.1 [compile->default(compile)]
 [info] Resolving commons-collections#commons-collections;3.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14afe43e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@798da573
 [debug] sbt-chain: module revision found in cache: commons-collections#commons-collections;3.2.1
 [debug] 	found commons-collections#commons-collections;3.2.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-collections#commons-collections;3.2.1 [compile->runtime]
@@ -227,7 +227,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-collections#commons-collections;3.2.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-digester#commons-digester;1.8 [compile->default(compile)]
 [info] Resolving commons-digester#commons-digester;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@723206f9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@494ff613
 [debug] sbt-chain: module revision found in cache: commons-digester#commons-digester;1.8
 [debug] 	found commons-digester#commons-digester;1.8 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-digester#commons-digester;1.8 [compile->runtime]
@@ -235,7 +235,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-digester#commons-digester;1.8 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->default(compile)]
 [info] Resolving commons-beanutils#commons-beanutils;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37a3870c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f483726
 [debug] sbt-chain: module revision found in cache: commons-beanutils#commons-beanutils;1.7.0
 [debug] 	found commons-beanutils#commons-beanutils;1.7.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->runtime]
@@ -243,7 +243,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->default(compile)]
 [info] Resolving com.google.protobuf#protobuf-java;2.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@191fef79
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c737cb9
 [debug] sbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;2.5.0
 [debug] 	found com.google.protobuf#protobuf-java;2.5.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->runtime]
@@ -251,7 +251,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-auth;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3284a2e9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48c6551
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-auth;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-auth;2.2.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->runtime]
@@ -259,7 +259,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-hdfs;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37998e6b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78eb15d6
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-hdfs;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-hdfs;2.2.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->runtime]
@@ -267,7 +267,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->default(compile)]
 [info] Resolving org.mortbay.jetty#jetty-util;6.1.26 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15d8270e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@567ec200
 [debug] sbt-chain: module revision found in cache: org.mortbay.jetty#jetty-util;6.1.26
 [debug] 	found org.mortbay.jetty#jetty-util;6.1.26 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->runtime]
@@ -275,7 +275,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6555a942
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4385342f
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->runtime]
@@ -283,7 +283,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70af7643
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@47cfc957
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->runtime]
@@ -291,7 +291,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b19246e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70aee130
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->runtime]
@@ -299,7 +299,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-api;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@fc6318f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@436c550f
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-api;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-api;2.2.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->runtime]
@@ -307,7 +307,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.google.inject#guice;3.0 [compile->default(compile)]
 [info] Resolving com.google.inject#guice;3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f1f8266
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ddd9e6a
 [debug] sbt-chain: module revision found in cache: com.google.inject#guice;3.0
 [debug] 	found com.google.inject#guice;3.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.google.inject#guice;3.0 [compile->runtime]
@@ -315,7 +315,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.google.inject#guice;3.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->default(compile)]
 [info] Resolving javax.inject#javax.inject;1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@577067a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c94a824
 [debug] sbt-chain: module revision found in cache: javax.inject#javax.inject;1
 [debug] 	found javax.inject#javax.inject;1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->runtime]
@@ -323,7 +323,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->default(compile)]
 [info] Resolving aopalliance#aopalliance;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70ac5d04
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4124c56e
 [debug] sbt-chain: module revision found in cache: aopalliance#aopalliance;1.0
 [debug] 	found aopalliance#aopalliance;1.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->runtime]
@@ -331,7 +331,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->default(compile)]
 [info] Resolving org.sonatype.sisu.inject#cglib;2.2.1-v20090111 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5530eab8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61c0c955
 [debug] sbt-chain: module revision found in cache: org.sonatype.sisu.inject#cglib;2.2.1-v20090111
 [debug] 	found org.sonatype.sisu.inject#cglib;2.2.1-v20090111 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->runtime]
@@ -339,7 +339,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2dda6ca6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a1982bb
 [debug] sbt-chain: module revision found in cache: com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9
 [debug] 	found com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->runtime]
@@ -347,7 +347,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey#jersey-server;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey#jersey-server;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ea4ea90
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d291fc0
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-server;1.9
 [debug] 	found com.sun.jersey#jersey-server;1.9 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey#jersey-server;1.9 [compile->runtime]
@@ -355,7 +355,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey#jersey-server;1.9 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->asm#asm;3.1 [compile->default(compile)]
 [info] Resolving asm#asm;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2674a75a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54dbb9fd
 [debug] sbt-chain: module revision found in cache: asm#asm;3.1
 [debug] 	found asm#asm;3.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->asm#asm;3.1 [compile->runtime]
@@ -363,7 +363,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->asm#asm;3.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey#jersey-json;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey#jersey-json;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25403983
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5827bf68
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-json;1.9
 [debug] 	found com.sun.jersey#jersey-json;1.9 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey#jersey-json;1.9 [compile->runtime]
@@ -371,7 +371,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey#jersey-json;1.9 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jettison#jettison;1.1 [compile->default(compile)]
 [info] Resolving org.codehaus.jettison#jettison;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@260db1a9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1af21acc
 [debug] sbt-chain: module revision found in cache: org.codehaus.jettison#jettison;1.1
 [debug] 	found org.codehaus.jettison#jettison;1.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jettison#jettison;1.1 [compile->runtime]
@@ -379,7 +379,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jettison#jettison;1.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.3 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-jaxrs;1.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@482533f2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1129cfa2
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-jaxrs;1.8.3
 [debug] 	found org.codehaus.jackson#jackson-jaxrs;1.8.3 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.3 [compile->runtime]
@@ -387,7 +387,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.3 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jackson#jackson-xc;1.8.3 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-xc;1.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3fd5271f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@461f491
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-xc;1.8.3
 [debug] 	found org.codehaus.jackson#jackson-xc;1.8.3 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jackson#jackson-xc;1.8.3 [compile->runtime]
@@ -395,7 +395,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.jackson#jackson-xc;1.8.3 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey.contribs#jersey-guice;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42e01a91
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25227c1b
 [debug] sbt-chain: module revision found in cache: com.sun.jersey.contribs#jersey-guice;1.9
 [debug] 	found com.sun.jersey.contribs#jersey-guice;1.9 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->runtime]
@@ -403,7 +403,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-client;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@736bedfb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f070270
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-client;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-client;2.2.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->runtime]
@@ -411,7 +411,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c2224bb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@495c1c04
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->runtime]
@@ -419,7 +419,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66346a9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@422bcd22
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-server-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->runtime]
@@ -427,7 +427,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e34ae77
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@664bf9df
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->runtime]
@@ -435,7 +435,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4108b5c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ef7c8a2
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->runtime]
@@ -443,7 +443,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-launcher_2.11;1.6.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-launcher_2.11;1.6.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cd8562a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36e9a974
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-launcher_2.11;1.6.1
 [debug] 	found org.apache.spark#spark-launcher_2.11;1.6.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-launcher_2.11;1.6.1 [compile->runtime]
@@ -451,7 +451,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-launcher_2.11;1.6.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.spark-project.spark#unused;1.0.0 [compile->default(compile)]
 [info] Resolving org.spark-project.spark#unused;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61e67bfb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5be87d6a
 [debug] sbt-chain: module revision found in cache: org.spark-project.spark#unused;1.0.0
 [debug] 	found org.spark-project.spark#unused;1.0.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.spark-project.spark#unused;1.0.0 [compile->runtime]
@@ -459,7 +459,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.spark-project.spark#unused;1.0.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-network-common_2.11;1.6.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-network-common_2.11;1.6.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@276a6839
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@436b2d09
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-common_2.11;1.6.1
 [debug] 	found org.apache.spark#spark-network-common_2.11;1.6.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-network-common_2.11;1.6.1 [compile->runtime]
@@ -467,7 +467,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-network-common_2.11;1.6.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.netty#netty-all;4.0.29.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-all;4.0.29.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3110bfdd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a97d155
 [debug] sbt-chain: module revision found in cache: io.netty#netty-all;4.0.29.Final
 [debug] 	found io.netty#netty-all;4.0.29.Final in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.netty#netty-all;4.0.29.Final [compile->runtime]
@@ -475,7 +475,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.netty#netty-all;4.0.29.Final [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-network-shuffle_2.11;1.6.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-network-shuffle_2.11;1.6.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54019675
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40ffa8b1
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-shuffle_2.11;1.6.1
 [debug] 	found org.apache.spark#spark-network-shuffle_2.11;1.6.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-network-shuffle_2.11;1.6.1 [compile->runtime]
@@ -483,7 +483,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-network-shuffle_2.11;1.6.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->default(compile)]
 [info] Resolving org.fusesource.leveldbjni#leveldbjni-all;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1830275
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4711fb14
 [debug] sbt-chain: module revision found in cache: org.fusesource.leveldbjni#leveldbjni-all;1.8
 [debug] 	found org.fusesource.leveldbjni#leveldbjni-all;1.8 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->runtime]
@@ -491,7 +491,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@765a3365
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8b54264
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.4.4 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->runtime]
@@ -499,7 +499,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@765b935d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64f29729
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.4.4 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->runtime]
@@ -507,7 +507,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a84c29e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66658c01
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.4.4 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->runtime]
@@ -515,7 +515,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-unsafe_2.11;1.6.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-unsafe_2.11;1.6.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73d8483c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d66bee4
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-unsafe_2.11;1.6.1
 [debug] 	found org.apache.spark#spark-unsafe_2.11;1.6.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-unsafe_2.11;1.6.1 [compile->runtime]
@@ -523,7 +523,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-unsafe_2.11;1.6.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->default(compile)]
 [info] Resolving net.java.dev.jets3t#jets3t;0.7.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a44bdd8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a417672
 [debug] sbt-chain: module revision found in cache: net.java.dev.jets3t#jets3t;0.7.1
 [debug] 	found net.java.dev.jets3t#jets3t;0.7.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->runtime]
@@ -531,7 +531,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-recipes;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d3b33bc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d369f6d
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-recipes;2.4.0
 [debug] 	found org.apache.curator#curator-recipes;2.4.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->runtime]
@@ -539,7 +539,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.curator#curator-framework;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-framework;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19bf9835
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f8703ce
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-framework;2.4.0
 [debug] 	found org.apache.curator#curator-framework;2.4.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.curator#curator-framework;2.4.0 [compile->runtime]
@@ -547,7 +547,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.curator#curator-framework;2.4.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.curator#curator-client;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-client;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5773a415
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1cdc33fc
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-client;2.4.0
 [debug] 	found org.apache.curator#curator-client;2.4.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.curator#curator-client;2.4.0 [compile->runtime]
@@ -555,7 +555,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.curator#curator-client;2.4.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->default(compile)]
 [info] Resolving org.apache.zookeeper#zookeeper;3.4.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3beee2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3343740d
 [debug] sbt-chain: module revision found in cache: org.apache.zookeeper#zookeeper;3.4.5
 [debug] 	found org.apache.zookeeper#zookeeper;3.4.5 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->runtime]
@@ -563,7 +563,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->jline#jline;0.9.94 [compile->default(compile)]
 [info] Resolving jline#jline;0.9.94 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@582ee0cf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bd27545
 [debug] sbt-chain: module revision found in cache: jline#jline;0.9.94
 [debug] 	found jline#jline;0.9.94 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->jline#jline;0.9.94 [compile->runtime]
@@ -571,7 +571,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->jline#jline;0.9.94 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.google.guava#guava;14.0.1 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;14.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45f7a68b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21d6016e
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;14.0.1
 [debug] 	found com.google.guava#guava;14.0.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.google.guava#guava;14.0.1 [compile->runtime]
@@ -579,7 +579,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.google.guava#guava;14.0.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [compile->default(compile)]
 [info] Resolving org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ca38902
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a293254
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016
 [debug] 	found org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [compile->runtime]
@@ -587,7 +587,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.commons#commons-lang3;3.3.2 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-lang3;3.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@725fc9dd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33c71135
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.3.2
 [debug] 	found org.apache.commons#commons-lang3;3.3.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.commons#commons-lang3;3.3.2 [compile->runtime]
@@ -595,7 +595,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.commons#commons-lang3;3.3.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.commons#commons-math3;3.4.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math3;3.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a70cd99
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d2ea96c
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.4.1
 [debug] 	found org.apache.commons#commons-math3;3.4.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.commons#commons-math3;3.4.1 [compile->runtime]
@@ -603,7 +603,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.commons#commons-math3;3.4.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20117dad
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@360395fa
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.10
 [debug] 	found org.slf4j#slf4j-api;1.7.10 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.10 [compile->runtime]
@@ -611,7 +611,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.10 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#jul-to-slf4j;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5228f20a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cd8af9d
 [debug] sbt-chain: module revision found in cache: org.slf4j#jul-to-slf4j;1.7.10
 [debug] 	found org.slf4j#jul-to-slf4j;1.7.10 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->runtime]
@@ -619,7 +619,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#jcl-over-slf4j;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3dbd1a83
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5278f184
 [debug] sbt-chain: module revision found in cache: org.slf4j#jcl-over-slf4j;1.7.10
 [debug] 	found org.slf4j#jcl-over-slf4j;1.7.10 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->runtime]
@@ -627,7 +627,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-log4j12;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@525351ff
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14ae6779
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-log4j12;1.7.10
 [debug] 	found org.slf4j#slf4j-log4j12;1.7.10 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->runtime]
@@ -635,7 +635,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.ning#compress-lzf;1.0.3 [compile->default(compile)]
 [info] Resolving com.ning#compress-lzf;1.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75e9c2cc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ab04933
 [debug] sbt-chain: module revision found in cache: com.ning#compress-lzf;1.0.3
 [debug] 	found com.ning#compress-lzf;1.0.3 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.ning#compress-lzf;1.0.3 [compile->runtime]
@@ -643,7 +643,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.ning#compress-lzf;1.0.3 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.xerial.snappy#snappy-java;1.1.2 [compile->default(compile)]
 [info] Resolving org.xerial.snappy#snappy-java;1.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16a3920
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8b7c81d
 [debug] sbt-chain: module revision found in cache: org.xerial.snappy#snappy-java;1.1.2
 [debug] 	found org.xerial.snappy#snappy-java;1.1.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.xerial.snappy#snappy-java;1.1.2 [compile->runtime]
@@ -651,7 +651,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.xerial.snappy#snappy-java;1.1.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.jpountz.lz4#lz4;1.3.0 [compile->default(compile)]
 [info] Resolving net.jpountz.lz4#lz4;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@12d23fc9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@371116ce
 [debug] sbt-chain: module revision found in cache: net.jpountz.lz4#lz4;1.3.0
 [debug] 	found net.jpountz.lz4#lz4;1.3.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.jpountz.lz4#lz4;1.3.0 [compile->runtime]
@@ -659,7 +659,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.jpountz.lz4#lz4;1.3.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->default(compile)]
 [info] Resolving org.roaringbitmap#RoaringBitmap;0.5.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a6888fc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@492a41b7
 [debug] sbt-chain: module revision found in cache: org.roaringbitmap#RoaringBitmap;0.5.11
 [debug] 	found org.roaringbitmap#RoaringBitmap;0.5.11 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->runtime]
@@ -667,7 +667,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-net#commons-net;2.2 [compile->default(compile)]
 [info] Resolving commons-net#commons-net;2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43845169
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@515cc2da
 [debug] sbt-chain: module revision found in cache: commons-net#commons-net;2.2
 [debug] 	found commons-net#commons-net;2.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-net#commons-net;2.2 [compile->runtime]
@@ -675,7 +675,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-net#commons-net;2.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.3.11 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-remote_2.11;2.3.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5941bdb8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@365e4270
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-remote_2.11;2.3.11
 [debug] 	found com.typesafe.akka#akka-remote_2.11;2.3.11 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.3.11 [compile->runtime]
@@ -683,7 +683,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.3.11 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.11 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.3.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10025b55
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b2cbeb1
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.3.11
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.3.11 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.11 [compile->runtime]
@@ -691,7 +691,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.11 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.typesafe#config;1.2.1 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4bbd1869
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6df98f8f
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.2.1
 [debug] 	found com.typesafe#config;1.2.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.typesafe#config;1.2.1 [compile->runtime]
@@ -699,7 +699,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.typesafe#config;1.2.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.netty#netty;3.8.0.Final [compile->default(compile)]
 [info] Resolving io.netty#netty;3.8.0.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ac8bc90
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7aaf469c
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.8.0.Final
 [debug] 	found io.netty#netty;3.8.0.Final in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.netty#netty;3.8.0.Final [compile->runtime]
@@ -707,7 +707,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.netty#netty;3.8.0.Final [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)]
 [info] Resolving org.uncommons.maths#uncommons-maths;1.2.2a ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71f9fbf1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4de3a088
 [debug] sbt-chain: module revision found in cache: org.uncommons.maths#uncommons-maths;1.2.2a
 [debug] 	found org.uncommons.maths#uncommons-maths;1.2.2a in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime]
@@ -715,7 +715,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.11 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-slf4j_2.11;2.3.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@307a722
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a915d90
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-slf4j_2.11;2.3.11
 [debug] 	found com.typesafe.akka#akka-slf4j_2.11;2.3.11 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.11 [compile->runtime]
@@ -723,7 +723,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.11 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.json4s#json4s-jackson_2.11;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-jackson_2.11;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1edaff82
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e30bf7d
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-jackson_2.11;3.2.10
 [debug] 	found org.json4s#json4s-jackson_2.11;3.2.10 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.json4s#json4s-jackson_2.11;3.2.10 [compile->runtime]
@@ -731,7 +731,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.json4s#json4s-jackson_2.11;3.2.10 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.json4s#json4s-core_2.11;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-core_2.11;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e7e5e80
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4db3f68d
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-core_2.11;3.2.10
 [debug] 	found org.json4s#json4s-core_2.11;3.2.10 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.json4s#json4s-core_2.11;3.2.10 [compile->runtime]
@@ -739,7 +739,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.json4s#json4s-core_2.11;3.2.10 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-ast_2.11;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4911c63a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61923031
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-ast_2.11;3.2.10
 [debug] 	found org.json4s#json4s-ast_2.11;3.2.10 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.10 [compile->runtime]
@@ -747,7 +747,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.10 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->default(compile)]
 [info] Resolving com.thoughtworks.paranamer#paranamer;2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@196fcb88
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5bbd75e8
 [debug] sbt-chain: module revision found in cache: com.thoughtworks.paranamer#paranamer;2.6
 [debug] 	found com.thoughtworks.paranamer#paranamer;2.6 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->runtime]
@@ -755,7 +755,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scalap;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@356a8740
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@257c7567
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scalap;2.11.0
 [debug] 	found org.scala-lang#scalap;2.11.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->runtime]
@@ -763,7 +763,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c676f9c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3fb8fa22
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.0
 [debug] 	found org.scala-lang#scala-compiler;2.11.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.0 [compile->runtime]
@@ -771,7 +771,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67afcefa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@493c2891
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->runtime]
@@ -779,7 +779,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d94bfd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c332940
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->runtime]
@@ -787,7 +787,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey#jersey-core;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey#jersey-core;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@573c06
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6acab8d6
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-core;1.9
 [debug] 	found com.sun.jersey#jersey-core;1.9 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey#jersey-core;1.9 [compile->runtime]
@@ -795,7 +795,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.jersey#jersey-core;1.9 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.mesos#mesos;0.21.1 [compile->default(compile)]
 [info] Resolving org.apache.mesos#mesos;0.21.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@784b11dd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@23cac348
 [debug] sbt-chain: module revision found in cache: org.apache.mesos#mesos;0.21.1
 [debug] 	found org.apache.mesos#mesos;0.21.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.mesos#mesos;0.21.1 [compile->runtime]
@@ -803,7 +803,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.mesos#mesos;0.21.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.clearspring.analytics#stream;2.7.0 [compile->default(compile)]
 [info] Resolving com.clearspring.analytics#stream;2.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e5c7a14
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@762e5b19
 [debug] sbt-chain: module revision found in cache: com.clearspring.analytics#stream;2.7.0
 [debug] 	found com.clearspring.analytics#stream;2.7.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.clearspring.analytics#stream;2.7.0 [compile->runtime]
@@ -811,7 +811,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.clearspring.analytics#stream;2.7.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.dropwizard.metrics#metrics-core;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-core;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f7c4dfc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64ad2b2a
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-core;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-core;3.1.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.dropwizard.metrics#metrics-core;3.1.2 [compile->runtime]
@@ -819,7 +819,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.dropwizard.metrics#metrics-core;3.1.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.dropwizard.metrics#metrics-jvm;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-jvm;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5aae51bd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26fa120b
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-jvm;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-jvm;3.1.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.dropwizard.metrics#metrics-jvm;3.1.2 [compile->runtime]
@@ -827,7 +827,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.dropwizard.metrics#metrics-jvm;3.1.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.dropwizard.metrics#metrics-json;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-json;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4990ced9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d586fa8
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-json;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-json;3.1.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.dropwizard.metrics#metrics-json;3.1.2 [compile->runtime]
@@ -835,7 +835,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.dropwizard.metrics#metrics-json;3.1.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.dropwizard.metrics#metrics-graphite;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-graphite;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29e4d7e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@739f3034
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-graphite;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-graphite;3.1.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.dropwizard.metrics#metrics-graphite;3.1.2 [compile->runtime]
@@ -843,7 +843,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->io.dropwizard.metrics#metrics-graphite;3.1.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20ca0913
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ab7ef68
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4
 [debug] 	found com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 [compile->runtime]
@@ -851,7 +851,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.ivy#ivy;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.ivy#ivy;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6dcb3667
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50c0794a
 [debug] sbt-chain: module revision found in cache: org.apache.ivy#ivy;2.4.0
 [debug] 	found org.apache.ivy#ivy;2.4.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.ivy#ivy;2.4.0 [compile->runtime]
@@ -859,7 +859,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.ivy#ivy;2.4.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->oro#oro;2.0.8 [compile->default(compile)]
 [info] Resolving oro#oro;2.0.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d266d37
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d715c88
 [debug] sbt-chain: module revision found in cache: oro#oro;2.0.8
 [debug] 	found oro#oro;2.0.8 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->oro#oro;2.0.8 [compile->runtime]
@@ -867,7 +867,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->oro#oro;2.0.8 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tachyonproject#tachyon-client;0.8.2 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-client;0.8.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b08ea90
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74840e9a
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-client;0.8.2
 [debug] 	found org.tachyonproject#tachyon-client;0.8.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tachyonproject#tachyon-client;0.8.2 [compile->runtime]
@@ -875,7 +875,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tachyonproject#tachyon-client;0.8.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->default(compile)]
 [info] Resolving commons-io#commons-io;2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38183eea
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@372f6c52
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
 [debug] 	found commons-io#commons-io;2.4 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->runtime]
@@ -883,7 +883,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-hdfs;0.8.2 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-underfs-hdfs;0.8.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16b96f2f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f6b593b
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-underfs-hdfs;0.8.2
 [debug] 	found org.tachyonproject#tachyon-underfs-hdfs;0.8.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-hdfs;0.8.2 [compile->runtime]
@@ -891,7 +891,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-hdfs;0.8.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-s3;0.8.2 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-underfs-s3;0.8.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@305a8f66
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a3cb889
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-underfs-s3;0.8.2
 [debug] 	found org.tachyonproject#tachyon-underfs-s3;0.8.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-s3;0.8.2 [compile->runtime]
@@ -899,7 +899,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-s3;0.8.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-local;0.8.2 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-underfs-local;0.8.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e04b62a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@58c85a61
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-underfs-local;0.8.2
 [debug] 	found org.tachyonproject#tachyon-underfs-local;0.8.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-local;0.8.2 [compile->runtime]
@@ -907,7 +907,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-local;0.8.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.razorvine#pyrolite;4.9 [compile->default(compile)]
 [info] Resolving net.razorvine#pyrolite;4.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5392b4c8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44928250
 [debug] sbt-chain: module revision found in cache: net.razorvine#pyrolite;4.9
 [debug] 	found net.razorvine#pyrolite;4.9 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.razorvine#pyrolite;4.9 [compile->runtime]
@@ -915,7 +915,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.razorvine#pyrolite;4.9 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.sf.py4j#py4j;0.9 [compile->default(compile)]
 [info] Resolving net.sf.py4j#py4j;0.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13befe7b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77c37ceb
 [debug] sbt-chain: module revision found in cache: net.sf.py4j#py4j;0.9
 [debug] 	found net.sf.py4j#py4j;0.9 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.sf.py4j#py4j;0.9 [compile->runtime]
@@ -923,7 +923,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.sf.py4j#py4j;0.9 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6abd3445
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21b28bb7
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->runtime]
@@ -931,7 +931,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-mllib_2.11;1.6.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-mllib_2.11;1.6.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79fc6a56
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a30f8df
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-mllib_2.11;1.6.1
 [debug] 	found org.apache.spark#spark-mllib_2.11;1.6.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-mllib_2.11;1.6.1 [compile->runtime]
@@ -939,7 +939,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-mllib_2.11;1.6.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-sql_2.11;1.6.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-sql_2.11;1.6.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66c87b57
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f9b64be
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-sql_2.11;1.6.1
 [debug] 	found org.apache.spark#spark-sql_2.11;1.6.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-sql_2.11;1.6.1 [compile->runtime]
@@ -947,7 +947,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-sql_2.11;1.6.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-catalyst_2.11;1.6.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-catalyst_2.11;1.6.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3542fdcc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6495b9ba
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-catalyst_2.11;1.6.1
 [debug] 	found org.apache.spark#spark-catalyst_2.11;1.6.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-catalyst_2.11;1.6.1 [compile->runtime]
@@ -955,7 +955,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-catalyst_2.11;1.6.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@607d480a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@420e83a7
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.7
 [debug] 	found org.scala-lang#scala-reflect;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-reflect;2.11.7
@@ -964,7 +964,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.janino#janino;2.7.8 [compile->default(compile)]
 [info] Resolving org.codehaus.janino#janino;2.7.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@455d1063
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c3bb9ef
 [debug] sbt-chain: module revision found in cache: org.codehaus.janino#janino;2.7.8
 [debug] 	found org.codehaus.janino#janino;2.7.8 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.janino#janino;2.7.8 [compile->runtime]
@@ -972,7 +972,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.janino#janino;2.7.8 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.janino#commons-compiler;2.7.8 [compile->default(compile)]
 [info] Resolving org.codehaus.janino#commons-compiler;2.7.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a5487bd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@265816b1
 [debug] sbt-chain: module revision found in cache: org.codehaus.janino#commons-compiler;2.7.8
 [debug] 	found org.codehaus.janino#commons-compiler;2.7.8 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.janino#commons-compiler;2.7.8 [compile->runtime]
@@ -980,7 +980,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.codehaus.janino#commons-compiler;2.7.8 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-column;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-column;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d2ecd34
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f25b71b
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-column;1.7.0
 [debug] 	found org.apache.parquet#parquet-column;1.7.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-column;1.7.0 [compile->runtime]
@@ -988,7 +988,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-column;1.7.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-common;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-common;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1207cee5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@659f59e4
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-common;1.7.0
 [debug] 	found org.apache.parquet#parquet-common;1.7.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-common;1.7.0 [compile->runtime]
@@ -996,7 +996,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-common;1.7.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-encoding;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-encoding;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c05555a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e71751d
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-encoding;1.7.0
 [debug] 	found org.apache.parquet#parquet-encoding;1.7.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-encoding;1.7.0 [compile->runtime]
@@ -1004,7 +1004,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-encoding;1.7.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-generator;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-generator;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b2c0628
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a599899
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-generator;1.7.0
 [debug] 	found org.apache.parquet#parquet-generator;1.7.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-generator;1.7.0 [compile->runtime]
@@ -1012,7 +1012,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-generator;1.7.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-codec#commons-codec;1.5 [compile->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e1ae0d1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f8fda5a
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.5
 [debug] 	found commons-codec#commons-codec;1.5 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-codec#commons-codec;1.5 [compile->runtime]
@@ -1020,7 +1020,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->commons-codec#commons-codec;1.5 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-hadoop;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-hadoop;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15e16a8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70ff0f26
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-hadoop;1.7.0
 [debug] 	found org.apache.parquet#parquet-hadoop;1.7.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-hadoop;1.7.0 [compile->runtime]
@@ -1028,7 +1028,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-hadoop;1.7.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-format;2.3.0-incubating [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-format;2.3.0-incubating ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c57d9f2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c1dd9fe
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-format;2.3.0-incubating
 [debug] 	found org.apache.parquet#parquet-format;2.3.0-incubating in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-format;2.3.0-incubating [compile->runtime]
@@ -1036,7 +1036,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-format;2.3.0-incubating [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-jackson;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-jackson;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f8b2584
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@214683a8
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-jackson;1.7.0
 [debug] 	found org.apache.parquet#parquet-jackson;1.7.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-jackson;1.7.0 [compile->runtime]
@@ -1044,7 +1044,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.parquet#parquet-jackson;1.7.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-graphx_2.11;1.6.1 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-graphx_2.11;1.6.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e1b617c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b69b620
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-graphx_2.11;1.6.1
 [debug] 	found org.apache.spark#spark-graphx_2.11;1.6.1 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-graphx_2.11;1.6.1 [compile->runtime]
@@ -1052,7 +1052,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.apache.spark#spark-graphx_2.11;1.6.1 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#core;1.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f5dcaf2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33b6f9ff
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#core;1.1.2
 [debug] 	found com.github.fommil.netlib#core;1.1.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->runtime]
@@ -1060,7 +1060,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.11.2 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze_2.11;0.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1dd3017f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79776a26
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze_2.11;0.11.2
 [debug] 	found org.scalanlp#breeze_2.11;0.11.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.11.2 [compile->runtime]
@@ -1068,7 +1068,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.11.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze-macros_2.11;0.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a824db1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56ca3850
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze-macros_2.11;0.11.2
 [debug] 	found org.scalanlp#breeze-macros_2.11;0.11.2 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->runtime]
@@ -1076,7 +1076,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->default(compile)]
 [info] Resolving net.sf.opencsv#opencsv;2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@12d204e3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59f77784
 [debug] sbt-chain: module revision found in cache: net.sf.opencsv#opencsv;2.3
 [debug] 	found net.sf.opencsv#opencsv;2.3 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->runtime]
@@ -1084,7 +1084,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->default(compile)]
 [info] Resolving com.github.rwl#jtransforms;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c19f65f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6296ff2e
 [debug] sbt-chain: module revision found in cache: com.github.rwl#jtransforms;2.4.0
 [debug] 	found com.github.rwl#jtransforms;2.4.0 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->runtime]
@@ -1092,7 +1092,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->default(compile)]
 [info] Resolving org.spire-math#spire_2.11;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@547a767b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e0a8e3
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire_2.11;0.7.4
 [debug] 	found org.spire-math#spire_2.11;0.7.4 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->runtime]
@@ -1100,7 +1100,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->default(compile)]
 [info] Resolving org.spire-math#spire-macros_2.11;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1834a5b3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@126df4ce
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire-macros_2.11;0.7.4
 [debug] 	found org.spire-math#spire-macros_2.11;0.7.4 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->runtime]
@@ -1108,7 +1108,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.jpmml#pmml-model;1.1.15 [compile->default(compile)]
 [info] Resolving org.jpmml#pmml-model;1.1.15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11729b15
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75c75186
 [debug] sbt-chain: module revision found in cache: org.jpmml#pmml-model;1.1.15
 [debug] 	found org.jpmml#pmml-model;1.1.15 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.jpmml#pmml-model;1.1.15 [compile->runtime]
@@ -1116,7 +1116,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.jpmml#pmml-model;1.1.15 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.jpmml#pmml-agent;1.1.15 [compile->default(compile)]
 [info] Resolving org.jpmml#pmml-agent;1.1.15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@485b5515
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25af8149
 [debug] sbt-chain: module revision found in cache: org.jpmml#pmml-agent;1.1.15
 [debug] 	found org.jpmml#pmml-agent;1.1.15 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.jpmml#pmml-agent;1.1.15 [compile->runtime]
@@ -1124,7 +1124,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.jpmml#pmml-agent;1.1.15 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.jpmml#pmml-schema;1.1.15 [compile->default(compile)]
 [info] Resolving org.jpmml#pmml-schema;1.1.15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b92511c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@907e260
 [debug] sbt-chain: module revision found in cache: org.jpmml#pmml-schema;1.1.15
 [debug] 	found org.jpmml#pmml-schema;1.1.15 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.jpmml#pmml-schema;1.1.15 [compile->runtime]
@@ -1132,7 +1132,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->org.jpmml#pmml-schema;1.1.15 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.xml.bind#jaxb-impl;2.2.7 [compile->default(compile)]
 [info] Resolving com.sun.xml.bind#jaxb-impl;2.2.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a3cc705
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@563f6b70
 [debug] sbt-chain: module revision found in cache: com.sun.xml.bind#jaxb-impl;2.2.7
 [debug] 	found com.sun.xml.bind#jaxb-impl;2.2.7 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.xml.bind#jaxb-impl;2.2.7 [compile->runtime]
@@ -1140,7 +1140,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.xml.bind#jaxb-impl;2.2.7 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.xml.bind#jaxb-core;2.2.7 [compile->default(compile)]
 [info] Resolving com.sun.xml.bind#jaxb-core;2.2.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4088b63c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@375d89c0
 [debug] sbt-chain: module revision found in cache: com.sun.xml.bind#jaxb-core;2.2.7
 [debug] 	found com.sun.xml.bind#jaxb-core;2.2.7 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.xml.bind#jaxb-core;2.2.7 [compile->runtime]
@@ -1148,7 +1148,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.xml.bind#jaxb-core;2.2.7 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->default(compile)]
 [info] Resolving javax.xml.bind#jaxb-api;2.2.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5aa1be89
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c91892b
 [debug] sbt-chain: module revision found in cache: javax.xml.bind#jaxb-api;2.2.7
 [debug] 	found javax.xml.bind#jaxb-api;2.2.7 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->runtime]
@@ -1156,7 +1156,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.istack#istack-commons-runtime;2.16 [compile->default(compile)]
 [info] Resolving com.sun.istack#istack-commons-runtime;2.16 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4394dbfe
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2806ac5d
 [debug] sbt-chain: module revision found in cache: com.sun.istack#istack-commons-runtime;2.16
 [debug] 	found com.sun.istack#istack-commons-runtime;2.16 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.istack#istack-commons-runtime;2.16 [compile->runtime]
@@ -1164,7 +1164,7 @@
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.istack#istack-commons-runtime;2.16 [compile->master]
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.xml.fastinfoset#FastInfoset;1.2.12 [compile->default(compile)]
 [info] Resolving com.sun.xml.fastinfoset#FastInfoset;1.2.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@704f1fde
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10d5de65
 [debug] sbt-chain: module revision found in cache: com.sun.xml.fastinfoset#FastInfoset;1.2.12
 [debug] 	found com.sun.xml.fastinfoset#FastInfoset;1.2.12 in sbt-chain
 [debug] == resolving dependencies sparkwordcount#sparkwordcount$sources_2.11;1.0->com.sun.xml.fastinfoset#FastInfoset;1.2.12 [compile->runtime]
@@ -11085,7 +11085,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 13049ms :: artifacts dl 2578ms
+[debug] :: resolution report :: resolve 18252ms :: artifacts dl 484ms
 [debug] 	report for sparkwordcount#sparkwordcount$sources_2.11;1.0 compile produced in C:\Users\NAVEENA\Documents\GitHub\Big-Data-Analytics-Lab-Assignments\wordcountlprogram\target\resolution-cache\reports\sparkwordcount-sparkwordcount$sources_2.11-compile.xml
 [debug] 	report for sparkwordcount#sparkwordcount$sources_2.11;1.0 runtime produced in C:\Users\NAVEENA\Documents\GitHub\Big-Data-Analytics-Lab-Assignments\wordcountlprogram\target\resolution-cache\reports\sparkwordcount-sparkwordcount$sources_2.11-runtime.xml
 [debug] 	report for sparkwordcount#sparkwordcount$sources_2.11;1.0 test produced in C:\Users\NAVEENA\Documents\GitHub\Big-Data-Analytics-Lab-Assignments\wordcountlprogram\target\resolution-cache\reports\sparkwordcount-sparkwordcount$sources_2.11-test.xml
@@ -11099,4 +11099,4 @@
 [debug] 	report for sparkwordcount#sparkwordcount$sources_2.11;1.0 docs produced in C:\Users\NAVEENA\Documents\GitHub\Big-Data-Analytics-Lab-Assignments\wordcountlprogram\target\resolution-cache\reports\sparkwordcount-sparkwordcount$sources_2.11-docs.xml
 [debug] 	report for sparkwordcount#sparkwordcount$sources_2.11;1.0 pom produced in C:\Users\NAVEENA\Documents\GitHub\Big-Data-Analytics-Lab-Assignments\wordcountlprogram\target\resolution-cache\reports\sparkwordcount-sparkwordcount$sources_2.11-pom.xml
 [debug] 	report for sparkwordcount#sparkwordcount$sources_2.11;1.0 scala-tool produced in C:\Users\NAVEENA\Documents\GitHub\Big-Data-Analytics-Lab-Assignments\wordcountlprogram\target\resolution-cache\reports\sparkwordcount-sparkwordcount$sources_2.11-scala-tool.xml
-[debug] 	resolve done (13049ms resolve - 2578ms download)
+[debug] 	resolve done (18252ms resolve - 484ms download)

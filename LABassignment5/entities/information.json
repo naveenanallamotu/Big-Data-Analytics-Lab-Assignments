@@ -1,0 +1,36 @@
+{
+  "id": "443b07c2-1bde-4ad3-b706-ca06452a7706",
+  "name": "information",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Naveena",
+      "synonyms": [
+        "Naveena",
+        "umkc",
+        "kansas",
+        "shuttle"
+      ]
+    },
+    {
+      "value": "jessika",
+      "synonyms": [
+        "jessika",
+        "scared heart university",
+        "boston",
+        "training"
+      ]
+    },
+    {
+      "value": "vikas",
+      "synonyms": [
+        "vikas",
+        "ucm",
+        "kansas",
+        "reading"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

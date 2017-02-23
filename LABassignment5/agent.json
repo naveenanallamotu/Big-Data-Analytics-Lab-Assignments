@@ -1,0 +1,35 @@
+{
+  "description": "",
+  "language": "en",
+  "enabledDomainFeatures": [],
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "invocationName": "hi navi",
+    "project": "122222",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "8f7ca4cb-0be0-40b3-b721-ff8aba3239b5",
+        "signInRequired": false
+      }
+    ],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "FEMALE_1"
+  },
+  "defaultTimezone": "",
+  "webhook": {
+    "url": "https://big-data-course.herokuapp.com/webhook",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false
+  },
+  "isPrivate": false,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.2
+}
