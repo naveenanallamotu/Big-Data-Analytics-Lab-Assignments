@@ -7,177 +7,177 @@
 		revision="1.0"
 		conf="runtime-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20170222141002"/>
+		date="20170301222532"/>
 	<dependencies>
 		<module organisation="com.levigo.jbig2" name="levigo-jbig2-imageio">
-			<revision name="1.6.5" status="release" pubdate="20151229004350" resolver="public" artresolver="public" homepage="https://github.com/levigo/jbig2-imageio" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="175">
+			<revision name="1.6.5" status="release" pubdate="20151229004350" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/levigo/jbig2-imageio" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="175">
 				<license name="GPL v3" url="http://www.gnu.org/licenses/gpl.txt"/>
-				<metadata-artifact status="successful" details="" size="5056" time="250" location="C:\Users\NAVEENA\.ivy2\cache\com.levigo.jbig2\levigo-jbig2-imageio\ivy-1.6.5.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\com.levigo.jbig2\levigo-jbig2-imageio\ivy-1.6.5.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/levigo/jbig2/levigo-jbig2-imageio/1.6.5/levigo-jbig2-imageio-1.6.5.pom"/>
+				<metadata-artifact status="no" details="" size="2742" time="0" location="C:\Users\NAVEENA\.ivy2\cache\com.levigo.jbig2\levigo-jbig2-imageio\ivy-1.6.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/levigo/jbig2/levigo-jbig2-imageio/1.6.5/levigo-jbig2-imageio-1.6.5.pom"/>
 				<caller organisation="default" name="image_classification_2.11" conf="compile, runtime-internal, runtime, optional" rev="1.6.5" rev-constraint-default="1.6.5" rev-constraint-dynamic="1.6.5" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="levigo-jbig2-imageio" type="jar" ext="jar" status="successful" details="" size="133164" time="172" location="C:\Users\NAVEENA\.ivy2\cache\com.levigo.jbig2\levigo-jbig2-imageio\jars\levigo-jbig2-imageio-1.6.5.jar">
+					<artifact name="levigo-jbig2-imageio" type="jar" ext="jar" status="no" details="" size="133164" time="0" location="C:\Users\NAVEENA\.ivy2\cache\com.levigo.jbig2\levigo-jbig2-imageio\jars\levigo-jbig2-imageio-1.6.5.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/levigo/jbig2/levigo-jbig2-imageio/1.6.5/levigo-jbig2-imageio-1.6.5.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="net.databinder" name="unfiltered-directives_2.11">
-			<revision name="0.8.3" status="release" pubdate="20141111224412" resolver="public" artresolver="public" homepage="http://unfiltered.databinder.net/" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="174">
+			<revision name="0.8.3" status="release" pubdate="20141111224412" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://unfiltered.databinder.net/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="174">
 				<license name="MIT" url="http://www.opensource.org/licenses/MIT"/>
-				<metadata-artifact status="successful" details="" size="2341" time="125" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-directives_2.11\ivy-0.8.3.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-directives_2.11\ivy-0.8.3.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/net/databinder/unfiltered-directives_2.11/0.8.3/unfiltered-directives_2.11-0.8.3.pom"/>
+				<metadata-artifact status="no" details="" size="2874" time="0" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-directives_2.11\ivy-0.8.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/net/databinder/unfiltered-directives_2.11/0.8.3/unfiltered-directives_2.11-0.8.3.pom"/>
 				<caller organisation="default" name="image_classification_2.11" conf="compile, runtime-internal, runtime, optional" rev="0.8.3" rev-constraint-default="0.8.3" rev-constraint-dynamic="0.8.3" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="unfiltered-directives_2.11" type="jar" ext="jar" status="successful" details="" size="172721" time="218" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-directives_2.11\jars\unfiltered-directives_2.11-0.8.3.jar">
+					<artifact name="unfiltered-directives_2.11" type="jar" ext="jar" status="no" details="" size="172721" time="0" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-directives_2.11\jars\unfiltered-directives_2.11-0.8.3.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/net/databinder/unfiltered-directives_2.11/0.8.3/unfiltered-directives_2.11-0.8.3.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="net.databinder" name="unfiltered-jetty_2.11">
-			<revision name="0.8.3" status="release" pubdate="20141111224358" resolver="public" artresolver="public" homepage="http://unfiltered.databinder.net/" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="164">
+			<revision name="0.8.3" status="release" pubdate="20141111224358" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://unfiltered.databinder.net/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="164">
 				<license name="MIT" url="http://www.opensource.org/licenses/MIT"/>
-				<metadata-artifact status="successful" details="" size="2127" time="171" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-jetty_2.11\ivy-0.8.3.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-jetty_2.11\ivy-0.8.3.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/net/databinder/unfiltered-jetty_2.11/0.8.3/unfiltered-jetty_2.11-0.8.3.pom"/>
+				<metadata-artifact status="no" details="" size="2745" time="0" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-jetty_2.11\ivy-0.8.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/net/databinder/unfiltered-jetty_2.11/0.8.3/unfiltered-jetty_2.11-0.8.3.pom"/>
 				<caller organisation="default" name="image_classification_2.11" conf="compile, runtime-internal, runtime, optional" rev="0.8.3" rev-constraint-default="0.8.3" rev-constraint-dynamic="0.8.3" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="unfiltered-jetty_2.11" type="jar" ext="jar" status="successful" details="" size="91631" time="204" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-jetty_2.11\jars\unfiltered-jetty_2.11-0.8.3.jar">
+					<artifact name="unfiltered-jetty_2.11" type="jar" ext="jar" status="no" details="" size="91631" time="0" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-jetty_2.11\jars\unfiltered-jetty_2.11-0.8.3.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/net/databinder/unfiltered-jetty_2.11/0.8.3/unfiltered-jetty_2.11-0.8.3.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.eclipse.jetty" name="jetty-webapp">
-			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143939" resolver="public" artresolver="public" homepage="http://www.eclipse.org/jetty" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="165">
-				<metadata-artifact status="successful" details="" size="3497" time="125" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-webapp\ivy-8.1.13.v20130916.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-webapp\ivy-8.1.13.v20130916.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-webapp/8.1.13.v20130916/jetty-webapp-8.1.13.v20130916.pom"/>
+			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143939" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org/jetty" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="165">
+				<metadata-artifact status="no" details="" size="8992" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-webapp\ivy-8.1.13.v20130916.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-webapp/8.1.13.v20130916/jetty-webapp-8.1.13.v20130916.pom"/>
 				<caller organisation="net.databinder" name="unfiltered-jetty_2.11" conf="default, compile, runtime, master" rev="8.1.13.v20130916" rev-constraint-default="8.1.13.v20130916" rev-constraint-dynamic="8.1.13.v20130916" callerrev="0.8.3"/>
 				<artifacts>
-					<artifact name="jetty-webapp" type="jar" ext="jar" status="successful" details="" size="110097" time="172" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-webapp\jars\jetty-webapp-8.1.13.v20130916.jar">
+					<artifact name="jetty-webapp" type="jar" ext="jar" status="no" details="" size="110097" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-webapp\jars\jetty-webapp-8.1.13.v20130916.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-webapp/8.1.13.v20130916/jetty-webapp-8.1.13.v20130916.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.eclipse.jetty" name="jetty-servlet">
-			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143521" resolver="public" artresolver="public" homepage="http://www.eclipse.org/jetty" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="168">
-				<metadata-artifact status="successful" details="" size="2727" time="125" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-servlet\ivy-8.1.13.v20130916.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-servlet\ivy-8.1.13.v20130916.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-servlet/8.1.13.v20130916/jetty-servlet-8.1.13.v20130916.pom"/>
+			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143521" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org/jetty" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="168">
+				<metadata-artifact status="no" details="" size="8812" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-servlet\ivy-8.1.13.v20130916.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-servlet/8.1.13.v20130916/jetty-servlet-8.1.13.v20130916.pom"/>
 				<caller organisation="org.eclipse.jetty" name="jetty-webapp" conf="compile, runtime" rev="8.1.13.v20130916" rev-constraint-default="8.1.13.v20130916" rev-constraint-dynamic="8.1.13.v20130916" callerrev="8.1.13.v20130916"/>
 				<artifacts>
-					<artifact name="jetty-servlet" type="jar" ext="jar" status="successful" details="" size="102565" time="156" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-servlet\jars\jetty-servlet-8.1.13.v20130916.jar">
+					<artifact name="jetty-servlet" type="jar" ext="jar" status="no" details="" size="102565" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-servlet\jars\jetty-servlet-8.1.13.v20130916.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-servlet/8.1.13.v20130916/jetty-servlet-8.1.13.v20130916.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.eclipse.jetty" name="jetty-security">
-			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143454" resolver="public" artresolver="public" homepage="http://www.eclipse.org/jetty" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="169">
-				<metadata-artifact status="successful" details="" size="2737" time="141" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-security\ivy-8.1.13.v20130916.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-security\ivy-8.1.13.v20130916.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-security/8.1.13.v20130916/jetty-security-8.1.13.v20130916.pom"/>
+			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143454" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org/jetty" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="169">
+				<metadata-artifact status="no" details="" size="8702" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-security\ivy-8.1.13.v20130916.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-security/8.1.13.v20130916/jetty-security-8.1.13.v20130916.pom"/>
 				<caller organisation="org.eclipse.jetty" name="jetty-servlet" conf="compile, runtime" rev="8.1.13.v20130916" rev-constraint-default="8.1.13.v20130916" rev-constraint-dynamic="8.1.13.v20130916" callerrev="8.1.13.v20130916"/>
 				<artifacts>
-					<artifact name="jetty-security" type="jar" ext="jar" status="successful" details="" size="89924" time="172" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-security\jars\jetty-security-8.1.13.v20130916.jar">
+					<artifact name="jetty-security" type="jar" ext="jar" status="no" details="" size="89924" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-security\jars\jetty-security-8.1.13.v20130916.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-security/8.1.13.v20130916/jetty-security-8.1.13.v20130916.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.eclipse.jetty" name="jetty-server">
-			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143414" resolver="public" artresolver="public" homepage="http://www.eclipse.org/jetty" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="170">
-				<metadata-artifact status="successful" details="" size="3780" time="125" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-server\ivy-8.1.13.v20130916.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-server\ivy-8.1.13.v20130916.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-server/8.1.13.v20130916/jetty-server-8.1.13.v20130916.pom"/>
+			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143414" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org/jetty" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="170">
+				<metadata-artifact status="no" details="" size="9323" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-server\ivy-8.1.13.v20130916.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-server/8.1.13.v20130916/jetty-server-8.1.13.v20130916.pom"/>
 				<caller organisation="org.eclipse.jetty" name="jetty-security" conf="compile, runtime" rev="8.1.13.v20130916" rev-constraint-default="8.1.13.v20130916" rev-constraint-dynamic="8.1.13.v20130916" callerrev="8.1.13.v20130916"/>
 				<artifacts>
-					<artifact name="jetty-server" type="jar" ext="jar" status="successful" details="" size="354768" time="219" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-server\jars\jetty-server-8.1.13.v20130916.jar">
+					<artifact name="jetty-server" type="jar" ext="jar" status="no" details="" size="354768" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-server\jars\jetty-server-8.1.13.v20130916.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-server/8.1.13.v20130916/jetty-server-8.1.13.v20130916.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.eclipse.jetty" name="jetty-http">
-			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143020" resolver="public" artresolver="public" homepage="http://www.eclipse.org/jetty" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="172">
-				<metadata-artifact status="successful" details="" size="2641" time="125" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-http\ivy-8.1.13.v20130916.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-http\ivy-8.1.13.v20130916.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-http/8.1.13.v20130916/jetty-http-8.1.13.v20130916.pom"/>
+			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143020" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org/jetty" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="172">
+				<metadata-artifact status="no" details="" size="8757" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-http\ivy-8.1.13.v20130916.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-http/8.1.13.v20130916/jetty-http-8.1.13.v20130916.pom"/>
 				<caller organisation="org.eclipse.jetty" name="jetty-server" conf="compile, runtime" rev="8.1.13.v20130916" rev-constraint-default="8.1.13.v20130916" rev-constraint-dynamic="8.1.13.v20130916" callerrev="8.1.13.v20130916"/>
 				<artifacts>
-					<artifact name="jetty-http" type="jar" ext="jar" status="successful" details="" size="96125" time="172" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-http\jars\jetty-http-8.1.13.v20130916.jar">
+					<artifact name="jetty-http" type="jar" ext="jar" status="no" details="" size="96125" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-http\jars\jetty-http-8.1.13.v20130916.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-http/8.1.13.v20130916/jetty-http-8.1.13.v20130916.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.eclipse.jetty" name="jetty-io">
-			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143004" resolver="public" artresolver="public" homepage="http://www.eclipse.org/jetty" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="173">
-				<metadata-artifact status="successful" details="" size="2146" time="560" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-io\ivy-8.1.13.v20130916.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-io\ivy-8.1.13.v20130916.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-io/8.1.13.v20130916/jetty-io-8.1.13.v20130916.pom"/>
+			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143004" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org/jetty" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="173">
+				<metadata-artifact status="no" details="" size="8612" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-io\ivy-8.1.13.v20130916.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-io/8.1.13.v20130916/jetty-io-8.1.13.v20130916.pom"/>
 				<caller organisation="org.eclipse.jetty" name="jetty-http" conf="compile, runtime" rev="8.1.13.v20130916" rev-constraint-default="8.1.13.v20130916" rev-constraint-dynamic="8.1.13.v20130916" callerrev="8.1.13.v20130916"/>
 				<artifacts>
-					<artifact name="jetty-io" type="jar" ext="jar" status="successful" details="" size="104234" time="234" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-io\jars\jetty-io-8.1.13.v20130916.jar">
+					<artifact name="jetty-io" type="jar" ext="jar" status="no" details="" size="104234" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-io\jars\jetty-io-8.1.13.v20130916.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-io/8.1.13.v20130916/jetty-io-8.1.13.v20130916.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.eclipse.jetty" name="jetty-continuation">
-			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143033" resolver="public" artresolver="public" homepage="http://www.eclipse.org/jetty" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="171">
-				<metadata-artifact status="successful" details="" size="2735" time="125" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-continuation\ivy-8.1.13.v20130916.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-continuation\ivy-8.1.13.v20130916.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-continuation/8.1.13.v20130916/jetty-continuation-8.1.13.v20130916.pom"/>
+			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143033" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org/jetty" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="171">
+				<metadata-artifact status="no" details="" size="8707" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-continuation\ivy-8.1.13.v20130916.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-continuation/8.1.13.v20130916/jetty-continuation-8.1.13.v20130916.pom"/>
 				<caller organisation="org.eclipse.jetty" name="jetty-server" conf="compile, runtime" rev="8.1.13.v20130916" rev-constraint-default="8.1.13.v20130916" rev-constraint-dynamic="8.1.13.v20130916" callerrev="8.1.13.v20130916"/>
 				<artifacts>
-					<artifact name="jetty-continuation" type="jar" ext="jar" status="successful" details="" size="21160" time="312" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-continuation\jars\jetty-continuation-8.1.13.v20130916.jar">
+					<artifact name="jetty-continuation" type="jar" ext="jar" status="no" details="" size="21160" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-continuation\jars\jetty-continuation-8.1.13.v20130916.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-continuation/8.1.13.v20130916/jetty-continuation-8.1.13.v20130916.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.eclipse.jetty" name="jetty-xml">
-			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143917" resolver="public" artresolver="public" homepage="http://www.eclipse.org/jetty" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="166">
-				<metadata-artifact status="successful" details="" size="1990" time="141" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-xml\ivy-8.1.13.v20130916.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-xml\ivy-8.1.13.v20130916.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-xml/8.1.13.v20130916/jetty-xml-8.1.13.v20130916.pom"/>
+			<revision name="8.1.13.v20130916" status="release" pubdate="20130916143917" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org/jetty" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="166">
+				<metadata-artifact status="no" details="" size="8626" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-xml\ivy-8.1.13.v20130916.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-xml/8.1.13.v20130916/jetty-xml-8.1.13.v20130916.pom"/>
 				<caller organisation="org.eclipse.jetty" name="jetty-webapp" conf="compile, runtime" rev="8.1.13.v20130916" rev-constraint-default="8.1.13.v20130916" rev-constraint-dynamic="8.1.13.v20130916" callerrev="8.1.13.v20130916"/>
 				<artifacts>
-					<artifact name="jetty-xml" type="jar" ext="jar" status="successful" details="" size="39067" time="312" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-xml\jars\jetty-xml-8.1.13.v20130916.jar">
+					<artifact name="jetty-xml" type="jar" ext="jar" status="no" details="" size="39067" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-xml\jars\jetty-xml-8.1.13.v20130916.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-xml/8.1.13.v20130916/jetty-xml-8.1.13.v20130916.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.eclipse.jetty" name="jetty-util">
-			<revision name="8.1.13.v20130916" status="release" pubdate="20130916142909" resolver="public" artresolver="public" homepage="http://www.eclipse.org/jetty" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="167">
-				<metadata-artifact status="successful" details="" size="3434" time="125" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-util\ivy-8.1.13.v20130916.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-util\ivy-8.1.13.v20130916.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-util/8.1.13.v20130916/jetty-util-8.1.13.v20130916.pom"/>
+			<revision name="8.1.13.v20130916" status="release" pubdate="20130916142909" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org/jetty" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="167">
+				<metadata-artifact status="no" details="" size="8992" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-util\ivy-8.1.13.v20130916.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-util/8.1.13.v20130916/jetty-util-8.1.13.v20130916.pom"/>
 				<caller organisation="org.eclipse.jetty" name="jetty-xml" conf="compile, runtime" rev="8.1.13.v20130916" rev-constraint-default="8.1.13.v20130916" rev-constraint-dynamic="8.1.13.v20130916" callerrev="8.1.13.v20130916"/>
 				<caller organisation="org.eclipse.jetty" name="jetty-io" conf="compile, runtime" rev="8.1.13.v20130916" rev-constraint-default="8.1.13.v20130916" rev-constraint-dynamic="8.1.13.v20130916" callerrev="8.1.13.v20130916"/>
 				<artifacts>
-					<artifact name="jetty-util" type="jar" ext="jar" status="successful" details="" size="287683" time="188" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-util\jars\jetty-util-8.1.13.v20130916.jar">
+					<artifact name="jetty-util" type="jar" ext="jar" status="no" details="" size="287683" time="0" location="C:\Users\NAVEENA\.ivy2\cache\org.eclipse.jetty\jetty-util\jars\jetty-util-8.1.13.v20130916.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-util/8.1.13.v20130916/jetty-util-8.1.13.v20130916.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="net.databinder" name="unfiltered-filter_2.11">
-			<revision name="0.8.3" status="release" pubdate="20141111224402" resolver="public" artresolver="public" homepage="http://unfiltered.databinder.net/" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="161">
+			<revision name="0.8.3" status="release" pubdate="20141111224402" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://unfiltered.databinder.net/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="161">
 				<license name="MIT" url="http://www.opensource.org/licenses/MIT"/>
-				<metadata-artifact status="successful" details="" size="2338" time="156" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-filter_2.11\ivy-0.8.3.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-filter_2.11\ivy-0.8.3.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/net/databinder/unfiltered-filter_2.11/0.8.3/unfiltered-filter_2.11-0.8.3.pom"/>
+				<metadata-artifact status="no" details="" size="2894" time="0" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-filter_2.11\ivy-0.8.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/net/databinder/unfiltered-filter_2.11/0.8.3/unfiltered-filter_2.11-0.8.3.pom"/>
 				<caller organisation="default" name="image_classification_2.11" conf="compile, runtime-internal, runtime, optional" rev="0.8.3" rev-constraint-default="0.8.3" rev-constraint-dynamic="0.8.3" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="unfiltered-filter_2.11" type="jar" ext="jar" status="successful" details="" size="26400" time="442" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-filter_2.11\jars\unfiltered-filter_2.11-0.8.3.jar">
+					<artifact name="unfiltered-filter_2.11" type="jar" ext="jar" status="no" details="" size="26400" time="0" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-filter_2.11\jars\unfiltered-filter_2.11-0.8.3.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/net/databinder/unfiltered-filter_2.11/0.8.3/unfiltered-filter_2.11-0.8.3.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="net.databinder" name="unfiltered_2.11">
-			<revision name="0.8.3" status="release" pubdate="20141111224430" resolver="public" artresolver="public" homepage="http://unfiltered.databinder.net/" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="162">
+			<revision name="0.8.3" status="release" pubdate="20141111224430" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://unfiltered.databinder.net/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="162">
 				<license name="MIT" url="http://www.opensource.org/licenses/MIT"/>
-				<metadata-artifact status="successful" details="" size="2688" time="173" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered_2.11\ivy-0.8.3.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered_2.11\ivy-0.8.3.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/net/databinder/unfiltered_2.11/0.8.3/unfiltered_2.11-0.8.3.pom"/>
+				<metadata-artifact status="no" details="" size="3161" time="0" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered_2.11\ivy-0.8.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/net/databinder/unfiltered_2.11/0.8.3/unfiltered_2.11-0.8.3.pom"/>
 				<caller organisation="net.databinder" name="unfiltered-directives_2.11" conf="default, compile, runtime, master" rev="0.8.3" rev-constraint-default="0.8.3" rev-constraint-dynamic="0.8.3" callerrev="0.8.3"/>
 				<caller organisation="net.databinder" name="unfiltered-filter_2.11" conf="default, compile, runtime, master" rev="0.8.3" rev-constraint-default="0.8.3" rev-constraint-dynamic="0.8.3" callerrev="0.8.3"/>
 				<artifacts>
-					<artifact name="unfiltered_2.11" type="jar" ext="jar" status="successful" details="" size="816131" time="327" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered_2.11\jars\unfiltered_2.11-0.8.3.jar">
+					<artifact name="unfiltered_2.11" type="jar" ext="jar" status="no" details="" size="816131" time="0" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered_2.11\jars\unfiltered_2.11-0.8.3.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/net/databinder/unfiltered_2.11/0.8.3/unfiltered_2.11-0.8.3.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="net.databinder" name="unfiltered-util_2.11">
-			<revision name="0.8.3" status="release" pubdate="20141111224352" resolver="public" artresolver="public" homepage="http://unfiltered.databinder.net/" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="163">
+			<revision name="0.8.3" status="release" pubdate="20141111224352" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://unfiltered.databinder.net/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="163">
 				<license name="MIT" url="http://www.opensource.org/licenses/MIT"/>
-				<metadata-artifact status="successful" details="" size="1915" time="172" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-util_2.11\ivy-0.8.3.xml" searched="true" original-local-location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-util_2.11\ivy-0.8.3.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/net/databinder/unfiltered-util_2.11/0.8.3/unfiltered-util_2.11-0.8.3.pom"/>
+				<metadata-artifact status="no" details="" size="2563" time="0" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-util_2.11\ivy-0.8.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/net/databinder/unfiltered-util_2.11/0.8.3/unfiltered-util_2.11-0.8.3.pom"/>
 				<caller organisation="net.databinder" name="unfiltered_2.11" conf="compile, runtime" rev="0.8.3" rev-constraint-default="0.8.3" rev-constraint-dynamic="0.8.3" callerrev="0.8.3"/>
 				<caller organisation="net.databinder" name="unfiltered-jetty_2.11" conf="default, compile, runtime, master" rev="0.8.3" rev-constraint-default="0.8.3" rev-constraint-dynamic="0.8.3" callerrev="0.8.3"/>
 				<artifacts>
-					<artifact name="unfiltered-util_2.11" type="jar" ext="jar" status="successful" details="" size="42598" time="472" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-util_2.11\jars\unfiltered-util_2.11-0.8.3.jar">
+					<artifact name="unfiltered-util_2.11" type="jar" ext="jar" status="no" details="" size="42598" time="0" location="C:\Users\NAVEENA\.ivy2\cache\net.databinder\unfiltered-util_2.11\jars\unfiltered-util_2.11-0.8.3.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/net/databinder/unfiltered-util_2.11/0.8.3/unfiltered-util_2.11-0.8.3.jar"/>
 					</artifact>
 				</artifacts>
