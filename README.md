@@ -6,5 +6,5 @@ link for project description: https://github.com/naveenanallamotu/Big-Data-Analy
 link for lab 3 assignment: https://github.com/naveenanallamotu/Big-Data-Analytics-Lab-Assignments/wiki/Lab-assignment-3
 Link for lab 4 assignment https://github.com/naveenanallamotu/Big-Data-Analytics-Lab-Assignments/wiki/lab-4-assignment
 wiki link for lab-5 assignment https://github.com/naveenanallamotu/Big-Data-Analytics-Lab-Assignments.wiki.git
-link for lab-5 assignment  
+link for lab-5 assignment https://github.com/naveenanallamotu/Big-Data-Analytics-Lab-Assignments/wiki/lab-5-assignment 
 wiki link for lab-6 assignment https://github.com/naveenanallamotu/Big-Data-Analytics-Lab-Assignments/wiki/lab6assignment
