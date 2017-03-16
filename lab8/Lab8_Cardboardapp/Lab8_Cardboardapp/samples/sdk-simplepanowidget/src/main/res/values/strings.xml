@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="title">Eiffel tower\nHistorical Construction </string>
+  <string name="subtitle">One of Seven wonders of the world</string>
+  <string name="paragraph1">The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris France.</string>
+
+  <string name="image_caption">A 360 panoramic view of Eiffel Tower</string>
+    <string name="source">Source &lt;a href="https://en.wikipedia.org/wiki/Eiffel_Tower">Wikipedia&lt;/a></string>
+</resources>
