@@ -1,7 +1,7 @@
 import tensorflow as tf, sys
 
 #image_path = sys.argv[1]
-image_path = 'data/flower_photos/roses/269037241_07fceff56a_m.jpg'
+image_path = 'data/final.jpg'
 # image_path = '676728-bigthumbnail.jpg'
 
 # Read in the image_data
