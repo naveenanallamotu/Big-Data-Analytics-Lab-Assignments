@@ -9,6 +9,7 @@ wiki link for lab-5 assignment https://github.com/naveenanallamotu/Big-Data-Anal
 link for lab-5 assignment https://github.com/naveenanallamotu/Big-Data-Analytics-Lab-Assignments/wiki/lab-5-assignment 
 wiki link for lab-6 assignment https://github.com/naveenanallamotu/Big-Data-Analytics-Lab-Assignments/wiki/lab6assignment
 wiki link for lab-7 assignment https://github.com/naveenanallamotu/Big-Data-Analytics-Lab-Assignments/wiki/LinearRegression-Tensorflow
- wiki link lab -8 https://github.com/naveenanallamotu/Big-Data-Analytics-Lab-Assignments/wiki/Lab8wiki
- Wiki link for lab -9 https://github.com/naveenanallamotu/Big-Data-Analytics-Lab-Assignments/wiki/lab9assignment
+wiki link lab -8 https://github.com/naveenanallamotu/Big-Data-Analytics-Lab-Assignments/wiki/Lab8wiki
+Wiki link for lab -9 https://github.com/naveenanallamotu/Big-Data-Analytics-Lab-Assignments/wiki/lab9assignment
 wiki link for lab-10 https://github.com/naveenanallamotu/Big-Data-Analytics-Lab-Assignments/wiki/Lab10
+wiki link for lab-11 https://github.com/naveenanallamotu/Big-Data-Analytics-Lab-Assignments/wiki/Lab11
