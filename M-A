@@ -1,7 +1,25 @@
-lab11Merge branch 'master' of github.com:naveenanallamotu/Big-Data-Analytics-Lab-Assignments
+#pick 24d7e85 web
+#pick 43b467f web
+#pick 6929db7 web
+#pick 044c6ed lab11
+#pick 3cee8f2 lab11
+#pick 843c22d lab11
+#pick eaa07e3 lab11
 
-# Please enter a commit message to explain why this merge is necessary,
-# especially if it merges an updated upstream into a topic branch.
+# Rebase 781dc74..eaa07e3 onto 781dc74
 #
-# Lines starting with '#' will be ignored, and an empty message aborts
-# the commit.
+# Commands:
+#  p, pick = use commit
+#  r, reword = use commit, but edit the commit message
+#  e, edit = use commit, but stop for amending
+#  s, squash = use commit, but meld into previous commit
+#  f, fixup = like "squash", but discard this commit's log message
+#  x, exec = run command (the rest of the line) using shell
+#
+# These lines can be re-ordered; they are executed from top to bottom.
+#
+# If you remove a line here THAT COMMIT WILL BE LOST.
+#
+# However, if you remove everything, the rebase will be aborted.
+#
+# Note that empty commits are commented out
